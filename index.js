@@ -120,4 +120,3 @@ function endGame() {
 
   return alert('YOU LOSE!')
 }
-
